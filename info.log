@@ -1,0 +1,6 @@
+{"message":"app is running on the port http://localhost:6005","level":"info","timestamp":"2021-07-16T11:21:02.033Z"}
+{"message":"app is running on the port http://localhost:6005","level":"info","timestamp":"2021-07-16T11:26:13.801Z"}
+{"message":"app is running on the port http://localhost:6005","level":"info","timestamp":"2021-07-16T11:30:18.785Z"}
+{"message":{"error":{"message":"INVALID_PASSWORD"}},"level":"error","timestamp":"2021-07-16T11:31:10.302Z"}
+{"message":"app is running on the port http://localhost:6005","level":"info","timestamp":"2021-07-16T11:33:29.343Z"}
+{"message":"app is running on the port http://localhost:6005","level":"info","timestamp":"2021-07-16T12:26:37.337Z"}
